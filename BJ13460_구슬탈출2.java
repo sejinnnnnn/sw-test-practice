@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 /**
  * 진짜 ㅈㄴ 어렵네요 ... 이런 거 나오면 풀 자신이 없는데 ..
  */
-public class 구슬탈출2 {
+public class BJ13460_구슬탈출2 {
 
     static final int[] dx = { 1, -1, 0, 0 };
     static final int[] dy = { 0, 0, 1, -1 };
